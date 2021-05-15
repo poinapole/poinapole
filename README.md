@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @poinapole
+- 👀 I’m interested in Cybersecurity.
+- 🌱 I’m currently absorbing all the knowledge from amazing blogs, articles and other contents.
+- 🚩 I’m currently trying to Capture some flags :P
+- 📫 mail me at batmanizlazy@gmail.com 
